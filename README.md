@@ -19,7 +19,7 @@ Right now I’m mainly focusing on improving my frontend skills.
 
 ---
 
-## 🚧 What I'm Building
+## 🚧 What I'm Currently Building
 
 - 📱 **SmartUmpire** – iOS app for chair umpires in racket sports  
 - 🌐 **JoinUp** – web app for sports booking in Wroclaw 

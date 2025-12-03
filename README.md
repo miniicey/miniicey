@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey, I'm Youssef
 
-<!--
-**miniicey/miniicey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior student at **Politechnika Wrocławska**  
+💻 Into **web development**  & **cybersecurity** 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I like building things that are clean, simple, and actually useful.  
+Right now I’m mainly focusing on improving my frontend skills.
+
+---
+
+## 🛠 Tech
+
+- **Languages:** Java, Python, C++, SQL , Swift.
+- **Web:** HTML, CSS, JavaScript  .
+
+---
+
+## 🚧 What I'm Building
+
+- 📱 **SmartUmpire** – iOS app for chair umpires in racket sports  
+- 🌐 **JoinUp** – web app for sports booking in Wroclaw 
+
+---
+
+## 📚 Learning
+
+- Modern frontend practices  
+- Better web app architecture  
+- Networking & cybersecurity concepts
+
+---
+
+## 📫 Contact
+
+Feel free to reach out at **miniicehd@gmail.com**  

@@ -1,7 +1,9 @@
 # 👋 Hey, I'm Youssef
 
 🎓 Senior student at **Politechnika Wrocławska**  
+
 💻 Into **web development**  & **cybersecurity** 
+
 📍From Cairo, **Egypt.** Based in **Wroclaw/Doha.**
 
 ---

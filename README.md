@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Youssef
+# Hi, I'm Youssef
 
 🎓 Senior student at **Politechnika Wrocławska**  
 
